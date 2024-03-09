@@ -1,10 +1,12 @@
 ### Hello!
-## A few things about me!
+
 ```
+nitin@personal:~$ ./aboutmyself.sh
+
 name: Nitin Jilla
 from: Mumbai, India
 fields_of_interests: Linux, Cloud Infrastructure, Automation/Scripting, Systems Engineering
-scripting_and_programming: Bash, Ansible, Python, Go, 
+scripting_and_programming: Bash, Ansible, Python, Go
 currently_learning: Terraform, AWS, Kubernetes
 hobbies: Movies, Reading
 
