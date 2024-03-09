@@ -4,6 +4,7 @@
 nitin@personal:~$ ./about-me.sh
 
 name: Nitin Jilla
+location: Copenhagen, Denmark
 from: Mumbai, India
 fields_of_interests: Linux, Cloud Infrastructure, Automation/Scripting, Systems Engineering
 scripting_and_programming: Bash, Ansible, Python, Go
