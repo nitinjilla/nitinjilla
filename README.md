@@ -1,7 +1,7 @@
 ### Hello!
 
 ```
-nitin@personal:~$ ./aboutmyself.sh
+nitin@personal:~$ ./about-me.sh
 
 name: Nitin Jilla
 from: Mumbai, India
