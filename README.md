@@ -1,11 +1,13 @@
 ### Hello!
+## A few things about me!
 ```
 name: Nitin Jilla
 from: Mumbai, India
 fields_of_interests: Linux, Cloud Infrastructure, Automation/Scripting, Systems Engineering
-scripting_and_programming: Python, Go, Bash, Ansible, Terraform
+scripting_and_programming: Bash, Ansible, Python, Go, 
 currently_learning: Terraform, AWS, Kubernetes
 hobbies: Movies, Reading
+
 ```
 
 <!--
