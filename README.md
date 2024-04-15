@@ -5,11 +5,9 @@ nitin@personal:~$ ./about-me.sh
 
 name: Nitin Jilla
 location: Copenhagen, Denmark
-from: Mumbai, India
-fields_of_interest: Linux, Cloud Infrastructure, Automation/Scripting, Systems Engineering, Distributed Systems
-scripting_and_programming: Bash, Ansible, Python, Go
-currently_learning: Terraform, AWS, Kubernetes
-hobbies: Movies, Reading
+fields_of_interest: Linux, Cloud Infrastructure, Systems Engineering, and Distributed Systems
+currently_learning: AWS, Kubernetes, Terraform
+contact: nitinjilla9@gmail.com
 
 ```
 
