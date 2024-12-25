@@ -4,10 +4,10 @@
 nitin@personal:~$ ./about-me.sh
 
 name: Nitin Jilla
-location: Copenhagen, Denmark
+location: Dublin, Ireland
 fields_of_interest: Linux, Cloud Infrastructure, Systems Engineering, and Distributed Systems
-currently_learning: AWS, Kubernetes, Terraform
-contact: nitinjilla9@gmail.com
+currently_learning: AWS, Kubernetes, Python, Go
+
 
 ```
 
