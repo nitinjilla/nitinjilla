@@ -1,14 +1,10 @@
 ### Hello!
 
 ```
-nitin@personal:~$ ./about-me.sh
-
 name: Nitin Jilla
 location: Dublin, Ireland
-fields_of_interest: Linux, Cloud Infrastructure, Systems Engineering, and Distributed Systems
-currently_learning: AWS, Kubernetes, Python, Go
-
-
+fields_of_interest: Linux, Cloud Infrastructure, and Distributed Systems
+currently_learning: AWS, Rust, Go
 ```
 
 <!--
